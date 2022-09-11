@@ -1,2 +1,2 @@
-# terminator.github.io
+# Rahul Mehta
 My blog
