@@ -1,2 +1,2 @@
 # Rahul Mehta
-My blog
+[My blog](https://terminator7997.github.io/)
